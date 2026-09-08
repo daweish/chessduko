@@ -66,9 +66,11 @@ Browser tests build the site and run Chromium, Firefox, and WebKit against the p
 
 ## Deploy to GitHub Pages
 
-1. Push this project to a GitHub repository with a `main` branch.
+1. Push this project to the GitHub repository's `master` branch.
 2. In **Settings → Pages**, select **GitHub Actions** as the source.
-3. The included workflow tests, builds, and publishes `dist/` on pushes to `main`. Pull requests run verification without deploying.
+3. The included workflow tests, builds, and publishes `dist/` on pushes to `master`. Pull requests run verification without deploying.
+
+The workflow is named **Verify and deploy Pages** in the repository's **Actions** tab. It is not a template to select in Pages settings. To run it manually, open that workflow and choose **Run workflow**; the workflow file must exist on the repository's default branch.
 
 Vite uses relative asset paths, so the build works at either an account root or a repository subpath without knowing the repository name. For a fixed hosting prefix, set `BASE_PATH=/your-repository/` when building. The site uses no client-side pathname routes or externally hosted runtime dependencies.
 
