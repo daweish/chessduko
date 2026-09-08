@@ -1,0 +1,441 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #171717;
+  background: #fff;
+  font-synthesis: none;
+  font-weight: 400;
+  line-height: 1.5;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+button {
+  font: inherit;
+  cursor: pointer;
+}
+button:disabled {
+  opacity: 0.55;
+  cursor: wait;
+}
+button:focus-visible,
+a:focus-visible {
+  outline: 3px solid #555;
+  outline-offset: 5px;
+}
+a {
+  color: inherit;
+}
+.masthead,
+main,
+footer {
+  max-width: 1180px;
+  margin: auto;
+}
+.masthead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #171717;
+  padding: 26px 0 22px;
+}
+.brand {
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 3px;
+  text-decoration: none;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.brand-mark {
+  font-size: 34px;
+  line-height: 1;
+}
+.edition,
+.eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+.edition {
+  color: #555;
+}
+.intro {
+  padding: 66px 0 55px;
+}
+.eyebrow {
+  margin: 0 0 20px;
+}
+h1 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: 400;
+  font-size: clamp(44px, 6vw, 72px);
+  line-height: 1.06;
+  letter-spacing: -2px;
+  margin: 0 0 24px;
+}
+h1 span {
+  font-style: italic;
+}
+.description {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+  margin: 0;
+}
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #222;
+}
+.section-heading h2 {
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  margin: 0;
+}
+#selected-date {
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: #555;
+}
+.date-nav {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin: 24px 0 32px;
+}
+.dates {
+  display: flex;
+  gap: 10px;
+  flex: 1;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  padding: 6px;
+  scroll-snap-type: x proximity;
+}
+.date-button {
+  flex: 1;
+  min-width: 100px;
+  border: 1px solid #ddd;
+  background: white;
+  padding: 12px 16px;
+  scroll-snap-align: start;
+  white-space: nowrap;
+}
+.date-button span {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 1px;
+  margin-bottom: 3px;
+  color: #666;
+}
+.date-button strong {
+  font-size: 15px;
+  font-weight: 500;
+}
+.date-button:hover {
+  border-color: #555;
+}
+.date-button[aria-pressed='true'] {
+  background: #171717;
+  color: #fff;
+  border-color: #171717;
+}
+.date-button[aria-pressed='true'] span {
+  color: #ccc;
+}
+.arrow {
+  height: 42px;
+  width: 34px;
+  flex-shrink: 0;
+  border: none;
+  background: transparent;
+  font-size: 23px;
+}
+.puzzles {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px;
+}
+.puzzle-card {
+  border: 1px solid #d9d9d9;
+  padding: 23px;
+  min-width: 0;
+}
+.card-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-heading h3 {
+  font-family: Georgia, 'Times New Roman', serif;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 1.2;
+  margin: 0;
+}
+.difficulty-dots {
+  font-size: 11px;
+  letter-spacing: 3px;
+}
+.card-description {
+  font-size: 12px;
+  color: #666;
+  margin: 9px 0 24px;
+}
+.grid-preview svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.clue-count {
+  font-size: 11px;
+  color: #666;
+  text-align: center;
+  margin: 16px 0 21px;
+}
+.download-puzzle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #171717;
+  color: #fff;
+  width: 100%;
+  border: 1px solid #171717;
+  padding: 12px 15px;
+  font-weight: 600;
+  font-size: 13px;
+}
+.download-puzzle:hover {
+  background: #383838;
+}
+.download-puzzle span {
+  font-size: 19px;
+  line-height: 1;
+}
+.download-solution {
+  display: block;
+  margin: 12px auto 0;
+  padding: 7px;
+  background: none;
+  border: none;
+  font-size: 12px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  color: #555;
+}
+.download-solution:hover {
+  color: #000;
+}
+.status:empty,
+#download-status:empty {
+  display: none;
+}
+.status {
+  padding: 42px 25px;
+  text-align: center;
+  background: #f6f6f6;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  min-height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+}
+.loading:before {
+  content: '';
+  display: block;
+  flex-shrink: 0;
+  width: 19px;
+  height: 19px;
+  border: 2px solid #ccc;
+  border-top-color: #171717;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.override,
+#download-status {
+  font-size: 13px;
+  overflow-wrap: anywhere;
+}
+.override {
+  padding: 12px;
+  border: 1px dashed #aaa;
+}
+.rules {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 50px;
+  border-top: 1px solid #222;
+  margin-top: 60px;
+  padding: 36px 0 45px;
+}
+.rules .eyebrow {
+  font-size: 10px;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+.rules h2 {
+  font:
+    400 32px Georgia,
+    serif;
+  margin: 0;
+}
+.rules ol {
+  margin: 0;
+  padding-left: 22px;
+  display: grid;
+  gap: 15px;
+  font-size: 13px;
+  color: #555;
+}
+.rules li {
+  padding-left: 7px;
+}
+.rules strong {
+  color: #171717;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #ddd;
+  padding: 23px 0 32px;
+  font-size: 11px;
+  color: #777;
+}
+@media (max-width: 1250px) {
+  .masthead,
+  main,
+  footer {
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+}
+@media (max-width: 850px) {
+  .puzzles {
+    gap: 15px;
+  }
+  .puzzle-card {
+    padding: 15px;
+  }
+  .edition {
+    display: none;
+  }
+  .date-nav {
+    gap: 3px;
+  }
+  .date-button {
+    min-width: 85px;
+    padding: 10px;
+  }
+  .card-heading h3 {
+    font-size: 25px;
+  }
+  .difficulty-dots {
+    font-size: 9px;
+    letter-spacing: 2px;
+  }
+  .card-description {
+    min-height: 36px;
+  }
+  .rules {
+    gap: 25px;
+  }
+}
+@media (max-width: 650px) {
+  .masthead,
+  main,
+  footer {
+    margin-left: 22px;
+    margin-right: 22px;
+  }
+  .masthead {
+    padding: 19px 0;
+  }
+  .brand {
+    font-size: 18px;
+  }
+  .intro {
+    padding: 42px 0 38px;
+  }
+  .description {
+    font-size: 14px;
+  }
+  .desktop-break {
+    display: none;
+  }
+  .puzzles {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .puzzle-card {
+    padding: 24px;
+    max-width: 430px;
+    width: 100%;
+    margin: auto;
+  }
+  .card-description {
+    min-height: 0;
+  }
+  .card-heading h3 {
+    font-size: 30px;
+  }
+  .difficulty-dots {
+    font-size: 12px;
+  }
+  .rules {
+    grid-template-columns: 1fr;
+    gap: 24px;
+    margin-top: 40px;
+    padding-bottom: 30px;
+  }
+  .section-heading h2 {
+    font-size: 17px;
+  }
+  #selected-date {
+    font-size: 10px;
+  }
+  .arrow {
+    width: 22px;
+  }
+  .date-nav {
+    margin-top: 17px;
+  }
+  .date-button {
+    min-width: 90px;
+  }
+  footer {
+    gap: 20px;
+    font-size: 10px;
+  }
+  .status {
+    align-items: flex-start;
+  }
+  .eyebrow {
+    font-size: 10px;
+    letter-spacing: 1.5px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *:before {
+    animation: none !important;
+    scroll-behavior: auto !important;
+  }
+}

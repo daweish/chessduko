@@ -1,0 +1,2606 @@
+{
+  "count": 100,
+  "offset": 200,
+  "failures": 0,
+  "records": [
+    {
+      "seed": "2026-07-20",
+      "ms": 1870,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-21",
+      "ms": 1871,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-22",
+      "ms": 1227,
+      "valid": true,
+      "clues": [
+        28,
+        8,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-23",
+      "ms": 1029,
+      "valid": true,
+      "clues": [
+        28,
+        8,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-24",
+      "ms": 885,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-25",
+      "ms": 1523,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-26",
+      "ms": 2896,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-27",
+      "ms": 924,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-28",
+      "ms": 1148,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-29",
+      "ms": 3662,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-30",
+      "ms": 563,
+      "valid": true,
+      "clues": [
+        28,
+        16,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-07-31",
+      "ms": 3912,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-01",
+      "ms": 1065,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-02",
+      "ms": 2343,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-03",
+      "ms": 34,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-04",
+      "ms": 1795,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-05",
+      "ms": 157,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-06",
+      "ms": 427,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-07",
+      "ms": 256,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-08",
+      "ms": 3770,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-09",
+      "ms": 1046,
+      "valid": true,
+      "clues": [
+        28,
+        20,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-10",
+      "ms": 386,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "x-wing",
+          "hidden-single"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-11",
+      "ms": 1199,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-12",
+      "ms": 3450,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-13",
+      "ms": 1892,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-14",
+      "ms": 2006,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-15",
+      "ms": 4447,
+      "valid": true,
+      "clues": [
+        28,
+        15,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-16",
+      "ms": 2081,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-17",
+      "ms": 263,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-18",
+      "ms": 2366,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-19",
+      "ms": 150,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-20",
+      "ms": 303,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-21",
+      "ms": 19,
+      "valid": true,
+      "clues": [
+        28,
+        15,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-22",
+      "ms": 1451,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-23",
+      "ms": 125,
+      "valid": true,
+      "clues": [
+        28,
+        19,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-24",
+      "ms": 202,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-25",
+      "ms": 842,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-26",
+      "ms": 1333,
+      "valid": true,
+      "clues": [
+        28,
+        15,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-27",
+      "ms": 671,
+      "valid": true,
+      "clues": [
+        28,
+        17,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-28",
+      "ms": 1032,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-29",
+      "ms": 74,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing",
+          "locked"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-30",
+      "ms": 583,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-08-31",
+      "ms": 71,
+      "valid": true,
+      "clues": [
+        28,
+        17,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-01",
+      "ms": 2282,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-02",
+      "ms": 996,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "locked",
+          "single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-03",
+      "ms": 4189,
+      "valid": true,
+      "clues": [
+        28,
+        16,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-04",
+      "ms": 1738,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-05",
+      "ms": 1871,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-06",
+      "ms": 336,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-07",
+      "ms": 198,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-08",
+      "ms": 2712,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-09",
+      "ms": 14,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-10",
+      "ms": 637,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-11",
+      "ms": 741,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-12",
+      "ms": 2427,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        6
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "locked",
+          "single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-13",
+      "ms": 1569,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing",
+          "locked"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-14",
+      "ms": 199,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-15",
+      "ms": 763,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-16",
+      "ms": 1027,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-17",
+      "ms": 703,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-18",
+      "ms": 926,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "locked",
+          "single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-19",
+      "ms": 803,
+      "valid": true,
+      "clues": [
+        28,
+        17,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-20",
+      "ms": 1996,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-21",
+      "ms": 512,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-22",
+      "ms": 777,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-23",
+      "ms": 365,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "x-wing",
+          "hidden-single"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-24",
+      "ms": 141,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-25",
+      "ms": 463,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-26",
+      "ms": 2749,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-27",
+      "ms": 1134,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-28",
+      "ms": 508,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-29",
+      "ms": 617,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-09-30",
+      "ms": 472,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-01",
+      "ms": 948,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "locked",
+          "single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-02",
+      "ms": 390,
+      "valid": true,
+      "clues": [
+        28,
+        16,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-03",
+      "ms": 1797,
+      "valid": true,
+      "clues": [
+        28,
+        18,
+        7
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-04",
+      "ms": 204,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-05",
+      "ms": 1991,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-06",
+      "ms": 2777,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-07",
+      "ms": 907,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-08",
+      "ms": 1022,
+      "valid": true,
+      "clues": [
+        28,
+        14,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-09",
+      "ms": 684,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-10",
+      "ms": 366,
+      "valid": true,
+      "clues": [
+        28,
+        16,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-11",
+      "ms": 441,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-12",
+      "ms": 1574,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-13",
+      "ms": 103,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-14",
+      "ms": 105,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-15",
+      "ms": 2120,
+      "valid": true,
+      "clues": [
+        28,
+        15,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-16",
+      "ms": 180,
+      "valid": true,
+      "clues": [
+        28,
+        20,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-17",
+      "ms": 1936,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-18",
+      "ms": 884,
+      "valid": true,
+      "clues": [
+        28,
+        18,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-19",
+      "ms": 758,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-20",
+      "ms": 4278,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        12
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "naked-pair",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-21",
+      "ms": 1647,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        11
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-22",
+      "ms": 889,
+      "valid": true,
+      "clues": [
+        28,
+        17,
+        9
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "hidden-single",
+          "locked",
+          "single",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-23",
+      "ms": 79,
+      "valid": true,
+      "clues": [
+        28,
+        13,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "hidden-single",
+          "single",
+          "x-wing",
+          "locked"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-24",
+      "ms": 3510,
+      "valid": true,
+      "clues": [
+        28,
+        10,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-25",
+      "ms": 757,
+      "valid": true,
+      "clues": [
+        28,
+        11,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-26",
+      "ms": 636,
+      "valid": true,
+      "clues": [
+        28,
+        12,
+        10
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "locked",
+          "hidden-single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    },
+    {
+      "seed": "2026-10-27",
+      "ms": 539,
+      "valid": true,
+      "clues": [
+        28,
+        9,
+        8
+      ],
+      "techniques": [
+        [
+          "single"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked"
+        ],
+        [
+          "single",
+          "hidden-single",
+          "locked",
+          "x-wing"
+        ]
+      ]
+    }
+  ]
+}
